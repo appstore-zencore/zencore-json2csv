@@ -3,12 +3,21 @@ zencore-json2csv
 
 Convert json data to csv data.
 
+
+Install
+-------
+
+::
+
+    pip install zencore-json2csv
+
+
 Usage
 -----
 
 ::
 
-    E:\zencore-json2csv\src\scripts>python json2csv --help
+    E:\>json2csv --help
     Usage: json2csv [OPTIONS]
 
     Options:
