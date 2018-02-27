@@ -13,10 +13,10 @@ requires = [
 
 setup(
     name="zencore-json2csv",
-    version="0.1.0",
+    version="0.1.1",
     description="Convert json array data to csv.",
     long_description=long_description,
-    url="https://github.com/zencore-dobetter/zencore-json2csv",
+    url="https://github.com/appstore-zencore/zencore-json2csv",
     author="zencore",
     author_email="dobetter@zencore.cn",
     license="MIT",

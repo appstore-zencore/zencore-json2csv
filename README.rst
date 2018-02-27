@@ -1,7 +1,7 @@
 zencore-json2csv
 ================
 
-Convert json data to csv data.
+Convert json array data to csv.
 
 
 Install
