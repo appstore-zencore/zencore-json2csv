@@ -3,6 +3,22 @@ zencore-json2csv
 
 Convert json data to csv data.
 
+Usage
+-----
+
+::
+
+    E:\zencore-json2csv\src\scripts>python json2csv --help
+    Usage: json2csv [OPTIONS]
+
+    Options:
+    -f, --file FILENAME     Input file name, use - for stdin.
+    --file-encoding TEXT    Input file encoding.
+    -o, --output FILENAME   Output file name, use - for stdout.
+    --output-encoding TEXT  Output file encoding.
+    -k, --keys TEXT         Output field names. Comma separated string list.
+    -p, --path TEXT         Path of the data.
+    --help                  Show this message and exit.
 
 Example 1
 ---------
