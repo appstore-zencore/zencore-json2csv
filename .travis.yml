@@ -1,0 +1,10 @@
+language: python
+python:
+    - "3.6.1"
+    - "3.6.2"
+install:
+    - pip install -r requirements.txt
+    - pip install .
+script:
+    - cd test
+    - nosetests
